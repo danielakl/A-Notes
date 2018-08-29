@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A-Notes</string>
+    <string name="create_new_note">Add note</string>
+    <string name="enter_new_note">Write your note</string>
+    <string name="delete_confirm_mesg">Are you sure you want to delete this note?</string>
+    <string name="delete_confirm_title">Delete note</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
